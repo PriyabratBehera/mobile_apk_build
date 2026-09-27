@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/5b5e7389b5345c84d6abdc32b41b2d97/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/288ded834c4826d083caa95af78c5e09/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/a3392ea6bf1453905c0600a3299759ab/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ba7515726d6bb3d1fb6e167007970e56/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/e411314e16d2b5d00e519cd2c6d4cf70/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c9926869494e0e51ea5186df9e91f393/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/priyabrat/.gradle/caches/9.0.0/transforms/9868b7aeb125ad3d5882960334dcf364/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/dde5d59dc2d4c353cac0616dca67a7a3/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/1b174aa059ccb0d4927d69df018563c0/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c712c361a9b848b283158f88d69c04ea/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/af7e8c08950125f45b4a33879fe0f295/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cf7e8d9dc82f3665936dc0c892aaa11c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/2138f3772286ca5042892b7b767a0892/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/d748de75620f047aa7d9a0d304164349/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/d4f40f5094426071f17559d1dec6788a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/7706df41a85296ee6f901430a72ed3c4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/116cb9df7aec96af69272e974bf8f4ec/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c4f171bfde70b2343c1a6b958e09a29a/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/fe293c3c2f2d9e70012ba12305508a28/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/a0f039ee464c0201d015b1f75807a973/transformed/lifecycle-livedata-core-ktx-2.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/72f450e12a54af676f6d89729916dab3/transformed/lifecycle-viewmodel-2.9.0/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/d58a26a5a064aa7b913599711603544a/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/b6e29cd1334573b1468413316d4ae581/transformed/savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f67a6f1502f8d57892fc48dae598db21/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/9957f04dddb0ce36e170beb7a37b9d71/transformed/lifecycle-livedata-2.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cb068b692d41eacc503ce7dfc1e35276/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/1c0eea24dc66da9c40e726f4abc4bf8c/transformed/lifecycle-livedata-core-2.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c9f7ebd7924a3f065f7d004bbbc8e218/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/107c9355679c28c42f673a90342045f6/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/2217cc8e78177539a7f318f3d435bca8/transformed/core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/e2f739e0062b843b2d19e2527e04b76d/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/98b1d2bd37764e3caf1b6530956ad545/transformed/core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c6a4beb4cfec8fa98e6a7deacf1c490c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/342eb02de426e2a6bd19d79ce9c547fc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/5ead74f59c5dc557e76215637b98806d/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/add753cfca822f1dbf01aede1274ae2d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ee481e0ba0f908c7949ffed224f5003d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/41c54c48e5d09a5a74ce8bfba2152fef/transformed/tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/577a66924d319a6f9de09093043f0044/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/94f067b1c88e4122571fcc9de0267af3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/0c25c4b31ea69bb15e04e54bac52d637/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/973de344185008987da51bcedab0cfa4/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:6:5-22:19
+INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:6:5-22:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/5b5e7389b5345c84d6abdc32b41b2d97/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/5b5e7389b5345c84d6abdc32b41b2d97/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/a3392ea6bf1453905c0600a3299759ab/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/a3392ea6bf1453905c0600a3299759ab/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cb068b692d41eacc503ce7dfc1e35276/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cb068b692d41eacc503ce7dfc1e35276/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c6a4beb4cfec8fa98e6a7deacf1c490c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c6a4beb4cfec8fa98e6a7deacf1c490c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ee481e0ba0f908c7949ffed224f5003d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ee481e0ba0f908c7949ffed224f5003d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:9:9-52
+	android:usesCleartextTraffic
+		ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:10:9-44
+activity#com.example.dummyapp.MainActivity
+ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:exported
+		ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml
+INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/5b5e7389b5345c84d6abdc32b41b2d97/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/5b5e7389b5345c84d6abdc32b41b2d97/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/288ded834c4826d083caa95af78c5e09/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/288ded834c4826d083caa95af78c5e09/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/a3392ea6bf1453905c0600a3299759ab/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/a3392ea6bf1453905c0600a3299759ab/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ba7515726d6bb3d1fb6e167007970e56/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ba7515726d6bb3d1fb6e167007970e56/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/e411314e16d2b5d00e519cd2c6d4cf70/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/e411314e16d2b5d00e519cd2c6d4cf70/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c9926869494e0e51ea5186df9e91f393/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c9926869494e0e51ea5186df9e91f393/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/priyabrat/.gradle/caches/9.0.0/transforms/9868b7aeb125ad3d5882960334dcf364/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/priyabrat/.gradle/caches/9.0.0/transforms/9868b7aeb125ad3d5882960334dcf364/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/dde5d59dc2d4c353cac0616dca67a7a3/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/dde5d59dc2d4c353cac0616dca67a7a3/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/1b174aa059ccb0d4927d69df018563c0/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/1b174aa059ccb0d4927d69df018563c0/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c712c361a9b848b283158f88d69c04ea/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c712c361a9b848b283158f88d69c04ea/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/af7e8c08950125f45b4a33879fe0f295/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/af7e8c08950125f45b4a33879fe0f295/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cf7e8d9dc82f3665936dc0c892aaa11c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cf7e8d9dc82f3665936dc0c892aaa11c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/2138f3772286ca5042892b7b767a0892/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/2138f3772286ca5042892b7b767a0892/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/d748de75620f047aa7d9a0d304164349/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/d748de75620f047aa7d9a0d304164349/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/d4f40f5094426071f17559d1dec6788a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/d4f40f5094426071f17559d1dec6788a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/7706df41a85296ee6f901430a72ed3c4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/7706df41a85296ee6f901430a72ed3c4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/116cb9df7aec96af69272e974bf8f4ec/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/116cb9df7aec96af69272e974bf8f4ec/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c4f171bfde70b2343c1a6b958e09a29a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c4f171bfde70b2343c1a6b958e09a29a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/fe293c3c2f2d9e70012ba12305508a28/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/fe293c3c2f2d9e70012ba12305508a28/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/a0f039ee464c0201d015b1f75807a973/transformed/lifecycle-livedata-core-ktx-2.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/a0f039ee464c0201d015b1f75807a973/transformed/lifecycle-livedata-core-ktx-2.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/72f450e12a54af676f6d89729916dab3/transformed/lifecycle-viewmodel-2.9.0/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/72f450e12a54af676f6d89729916dab3/transformed/lifecycle-viewmodel-2.9.0/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/d58a26a5a064aa7b913599711603544a/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/d58a26a5a064aa7b913599711603544a/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/b6e29cd1334573b1468413316d4ae581/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/b6e29cd1334573b1468413316d4ae581/transformed/savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f67a6f1502f8d57892fc48dae598db21/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f67a6f1502f8d57892fc48dae598db21/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/9957f04dddb0ce36e170beb7a37b9d71/transformed/lifecycle-livedata-2.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/9957f04dddb0ce36e170beb7a37b9d71/transformed/lifecycle-livedata-2.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cb068b692d41eacc503ce7dfc1e35276/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cb068b692d41eacc503ce7dfc1e35276/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/1c0eea24dc66da9c40e726f4abc4bf8c/transformed/lifecycle-livedata-core-2.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/1c0eea24dc66da9c40e726f4abc4bf8c/transformed/lifecycle-livedata-core-2.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c9f7ebd7924a3f065f7d004bbbc8e218/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c9f7ebd7924a3f065f7d004bbbc8e218/transformed/lifecycle-runtime-ktx/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/107c9355679c28c42f673a90342045f6/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/107c9355679c28c42f673a90342045f6/transformed/lifecycle-viewmodel-savedstate-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/2217cc8e78177539a7f318f3d435bca8/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/2217cc8e78177539a7f318f3d435bca8/transformed/core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/e2f739e0062b843b2d19e2527e04b76d/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/e2f739e0062b843b2d19e2527e04b76d/transformed/annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/98b1d2bd37764e3caf1b6530956ad545/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/98b1d2bd37764e3caf1b6530956ad545/transformed/core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c6a4beb4cfec8fa98e6a7deacf1c490c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/c6a4beb4cfec8fa98e6a7deacf1c490c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/342eb02de426e2a6bd19d79ce9c547fc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/342eb02de426e2a6bd19d79ce9c547fc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/5ead74f59c5dc557e76215637b98806d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/5ead74f59c5dc557e76215637b98806d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/add753cfca822f1dbf01aede1274ae2d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/add753cfca822f1dbf01aede1274ae2d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ee481e0ba0f908c7949ffed224f5003d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ee481e0ba0f908c7949ffed224f5003d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/41c54c48e5d09a5a74ce8bfba2152fef/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/41c54c48e5d09a5a74ce8bfba2152fef/transformed/tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/577a66924d319a6f9de09093043f0044/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/577a66924d319a6f9de09093043f0044/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/94f067b1c88e4122571fcc9de0267af3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/94f067b1c88e4122571fcc9de0267af3/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/0c25c4b31ea69bb15e04e54bac52d637/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/0c25c4b31ea69bb15e04e54bac52d637/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/973de344185008987da51bcedab0cfa4/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/973de344185008987da51bcedab0cfa4/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cb068b692d41eacc503ce7dfc1e35276/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cb068b692d41eacc503ce7dfc1e35276/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ee481e0ba0f908c7949ffed224f5003d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ee481e0ba0f908c7949ffed224f5003d/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/f6927fd61ffb5d4f608d788207b4865e/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+permission#com.example.dummyapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.dummyapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/912134771b88ccccc98d6b607e9001bf/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cb068b692d41eacc503ce7dfc1e35276/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cb068b692d41eacc503ce7dfc1e35276/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/cb068b692d41eacc503ce7dfc1e35276/transformed/lifecycle-process-2.9.0/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/priyabrat/.gradle/caches/9.0.0/transforms/ddbedd517270ef81a9765849b51c759d/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92

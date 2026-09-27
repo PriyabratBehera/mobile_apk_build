@@ -1,0 +1,4 @@
+#Sun Sep 27 10:49:20 IST 2026
+base.0=/Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

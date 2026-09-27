@@ -1,0 +1,4 @@
+com.example.dummyapp.test.app-androidTest-0 /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/build/generated/res/resValues/androidTest/debug
+com.example.dummyapp.test.app-mergeDebugAndroidTestResources-1 /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.dummyapp.test.app-mergeDebugAndroidTestResources-2 /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.dummyapp.test.app-debugAndroidTest-3 /Users/priyabrat/Downloads/dummy-mobile-ci-app/android-app/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

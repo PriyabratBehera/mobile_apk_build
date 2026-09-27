@@ -1,0 +1,16 @@
+services:
+  database:
+    image: postgres:16
+    container_name: dummy-mobile-database
+    environment:
+      POSTGRES_DB: employee_db
+      POSTGRES_USER: employee_user
+      POSTGRES_PASSWORD: employee_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./backend/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+
+volumes:
+  postgres_data:
